@@ -4,7 +4,6 @@
     margin: 0;
 }
 
-
 header {
     background-color: rgb(39, 39, 180);
     color: white;
@@ -21,4 +20,5 @@ aside {
     float: left;
     font-style: italic;
     background-color: lightgray;
+    min-height: 100vmin;
   }
