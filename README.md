@@ -13,7 +13,7 @@ Look up local weather using Open Weather API. App's intended users would be trav
 
 The deployed application should look something like this:
 
-![Screenshot 2023-04-27 180100](https://github.com/Tmollerhoj/weather-app/assets/97570338/302d7f36-8978-461d-9483-68f7589fbd80)
+![2023-05-25 (2)](https://github.com/Tmollerhoj/weather-app/assets/97570338/a30a18ba-11b6-44b5-92ed-2c8786ef0071)
 
 Click [here](https://tmollerhoj.github.io/weather-app/) for the deployed application.
 
