@@ -11,7 +11,7 @@ var desc = document.querySelector('.desc');
 var wind = document.querySelector('.wind');
 
 
-fetch('http://api.openweathermap.org/data/2.5/weather?q='+input.value+'&appid='+APIKey+'&units=imperial')
+fetch('https://api.openweathermap.org/data/2.5/weather?q='+input.value+'&appid='+APIKey+'&units=imperial')
 .then(response => response.json())
 .then(data => {
     console.log(data);
